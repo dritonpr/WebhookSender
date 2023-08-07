@@ -8,7 +8,7 @@ Prerequisites
 This application is built with .NET 7.0. Make sure you have the .NET 7.0 SDK installed on your machine. You can download it from here.
 
 Installation
-Clone the repo: git clone https://github.com/your_username_/WebhookSender.git
+Clone the repo: git clone https://github.com/dritonpr/WebhookSender
 
 Usage
 The API exposes the following endpoints:

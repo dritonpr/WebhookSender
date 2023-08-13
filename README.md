@@ -5,7 +5,7 @@ The Webhook Sender API is a .NET 7.0 Web API project that provides functionality
 To get a local copy up and running, follow these simple steps:
 
 # Prerequisites
-This application is built with .NET 7.0. Make sure you have the .NET 7.0 SDK installed on your machine. You can download it from here.
+This application is built with .NET 7.0. Make sure you have the .NET 7.0 SDK installed on your machine.
 
 # Installation
 Clone the repo: git clone https://github.com/dritonpr/WebhookSender
